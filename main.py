@@ -11,7 +11,7 @@ elif unit == "C" or unit == "c":
  
   f = temperature * 9/5 + 32
   
-  print(f"{temperature}\N{degree sign} in Fahrenheit is equivalent to {f}\N{degree sign} Celsius.")
+  print(f"{temperature}\N{degree sign} in Celsius is equivalent to {f}\N{degree sign} Fahrenheit.")
 
 
 
